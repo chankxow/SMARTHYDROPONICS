@@ -21,6 +21,8 @@
 <h2>ด้านฮาร์ดแวร์ (Hardware)
 </h2>
 
+<h3>Blynk</h3>
+
 <h3>ESP32</h3>
 <img src="https://th.bing.com/th/id/R.b02136248e37bd6f90bc862c685d1f3c?rik=N%2fwa6K%2bWtqqcKw&pid=ImgRaw&r=0" style="width="50px" height="50px"">
 <p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
@@ -31,9 +33,9 @@
 <p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
 
 <h3>E-201-C PH Sensor เซ็นเซอร์วัดค่า PH</h3>
-<img src="https://w11stop.com/image/cache/Sensors/e-201-c-ph-sensor-module-550x550.jpg" style="width="50px" height="50px"">
+<img src="https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width="50px" height="50px"">
 <p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
 
 <h3>EC sensor เซ็นเซอร์วัดค่าการนeไฟฟ้าของน ้า</h3>
-<img src="[https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png](https://cdn2.botland.store/66532-large_default/gravity-analog-electrical-conductivity-sensor-dfrobot-dfr0300-h.jpg)" style="width="50px" height="50px"">
+<img src="https://cdn2.botland.com.pl/66532-large_default/gravity-analogowy-czujnik-zasolenia-wody-i-gleby-dfrobot-dfr0300-h.jpg" style="width="50px" height="50px"">
 <p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
