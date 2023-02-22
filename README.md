@@ -71,9 +71,7 @@
 </h3>
 <img src="https://www.mechatronicstore.cl/wp-content/uploads/2017/05/humidity-temperature-sensor-dht22.jpg" style="width="50px" height="50px"">
 
- <ul><h3>DHT22 โมดูลเซนเซอร์วัดความชื้นและอุณหภูมิในตัวเดียว มีความแม่นยำสูง มีตัวต้านทาน Pull up มาแล้วสามารถต่อขาทดลองได้เลยไม่ต้องต่อเพิ่ม
-
-ถ้าต้องการความถูกต้องแม่นยำในการวัดอุณหภูมิและความชื้น แนะนำตัวนี้เลย DHT22 High Accuracy Digital Temperature and Humidity Sensor  DHT22 ใช้สำหรับวัดอุณหภูมิและความชื้น ออกแบบมาให้วัดได้แม่นยำกว่ารุ่น DHT11  ใช้ง่ายสามารถนำ DHT22 ไปเปลี่ยนแทน DHT11 ได้เลยเพราะโค้ด Arduino DHT22 เขียนเหมือนกัน</h3>
+ <ul><h3>DHT22 โมดูลเซนเซอร์วัดความชื้นและอุณหภูมิในตัวเดียว มีความแม่นยำสูง มีตัวต้านทาน Pull up มาแล้วสามารถต่อขาทดลองได้เลยไม่ต้องต่อเพิ่มถ้าต้องการความถูกต้องแม่นยำในการวัดอุณหภูมิและความชื้น แนะนำตัวนี้เลย DHT22 High Accuracy Digital Temperature and Humidity Sensor  DHT22 ใช้สำหรับวัดอุณหภูมิและความชื้น ออกแบบมาให้วัดได้แม่นยำกว่ารุ่น DHT11  ใช้ง่ายสามารถนำ DHT22 ไปเปลี่ยนแทน DHT11 ได้เลยเพราะโค้ด Arduino DHT22 เขียนเหมือนกัน</h3>
   <li>Accuracy humidity         +-2%RH(Max +-5%RH); temperature +-0.2Celsius</li>
   <li>Resolution or sensitivity humidity 0.1%RH; temperature 0.1Celsius</li>
   <li>Repeatability humidity +-1%RH; temperature +-0.2Celsius</li>
