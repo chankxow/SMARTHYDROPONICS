@@ -83,7 +83,18 @@
 
 <h3>E-201-C PH Sensor เซ็นเซอร์วัดค่า PH</h3>
 <img src="https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width="50px" height="50px"">
-<p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
+<ul><h3>ใช้วัดค่า PH ของน้ำมาพร้อมกับ Probe วัด (มีผง KCL สำหรับผสมน้ำสำหรับรักษาหัวโพรบในขวดขาว ควรถอดใช้อย่างระมัดระวัง) วัดความเป็นกรด-เบส ของสารละลายวัดได้ในช่วง 0-14 Ph โดยให้ค่าออมมาเป็น Analog 0-1024 mA สามารถเชื่อมต่อกับ Arduino ได้<h3>
+  <li> Module Power : 5.00V</li>
+  <li>Module Size : 43 x 32mm</li>
+  <li>Measuring Range :0 – 14PH</li>
+  <li>Measuring Temperature: 5 – 60 ℃</li>
+  <li>Accuracy : ± 0.1pH (25 ℃)</li>
+  <li>Response Time : ≤ 1min</li>
+  <li>pH Sensor with BNC Connector</li>
+  <li>pH2.0 Interface ( 3 foot patch )</li>
+  <li>Gain Adjustment Potentiometer</li>
+  <li>Power Indicator LED</li>
+ </ul>
 
 <h3>EC sensor เซ็นเซอร์วัดค่าการนeไฟฟ้าของน ้า</h3>
 <img src="https://cdn2.botland.com.pl/66532-large_default/gravity-analogowy-czujnik-zasolenia-wody-i-gleby-dfrobot-dfr0300-h.jpg" style="width="50px" height="50px"">
