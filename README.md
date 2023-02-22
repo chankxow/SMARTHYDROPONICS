@@ -17,3 +17,25 @@
 <h3>Arduino IDE</h3>
 <img src="https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width="50px" height="50px"">
 <p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
+
+<h2>ด้านฮาร์ดแวร์ (Hardware)
+</h2>
+
+<h3>Blynk</h3>
+
+<h3>ESP32</h3>
+<img src="https://th.bing.com/th/id/R.b02136248e37bd6f90bc862c685d1f3c?rik=N%2fwa6K%2bWtqqcKw&pid=ImgRaw&r=0" style="width="50px" height="50px"">
+<p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
+
+<h3>DHT22 เซ็นเซอร์วัดอุณหภูมิและความชื้น
+</h3>
+<img src="https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width="50px" height="50px"">
+<p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
+
+<h3>E-201-C PH Sensor เซ็นเซอร์วัดค่า PH</h3>
+<img src="https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width="50px" height="50px"">
+<p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
+
+<h3>EC sensor เซ็นเซอร์วัดค่าการนeไฟฟ้าของน ้า</h3>
+<img src="https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width="50px" height="50px"">
+<p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
