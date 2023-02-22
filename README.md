@@ -15,4 +15,5 @@
 <p>ใช้ในการทำแอปพลิเคชั่นเฉพาะ</p>
 
 <h3>Arduino IDE</h3>
+<img src="https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width="50px" height="50px"">
 <p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
