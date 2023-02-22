@@ -29,7 +29,7 @@
 
 <h3>DHT22 เซ็นเซอร์วัดอุณหภูมิและความชื้น
 </h3>
-<img src="https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width="50px" height="50px"">
+<img src="https://www.mechatronicstore.cl/wp-content/uploads/2017/05/humidity-temperature-sensor-dht22.jpg" style="width="50px" height="50px"">
 <p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
 
 <h3>E-201-C PH Sensor เซ็นเซอร์วัดค่า PH</h3>
