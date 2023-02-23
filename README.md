@@ -99,3 +99,5 @@
   <li>Conductor electrode cable length: about 60 cm</li>
   <li>Power Indicator</li>
   </ul>
+
+  <img src="/img/1.jpg">
