@@ -2,10 +2,10 @@
 <h1>โครงงาน ม.5 ศิลปะหัตถกรรม ครั้งที่ 70 2565</h1>
 <h2>เป็นโครงงานที่ใช้ความรู้และประสบการณ์จากการเข้าค่ายและศึกษาหาความรู้ด้วยตนเองแล้วนำมาพัฒนาต่อยอดทำโครงงานทักษะวิชาการ กับการแข่งศิลปะหัตถกรรม โครงงานคอมพิวเตอร์ประเภทซอฟแวร์คอมพิวเตอร์ ปี 2565</h2> 
 
-<div class="container" style="text-align: center;">
+<div class="container" >
   <img src="/img/1.jpg" style="width:50%; height:50%;">
   
-<h1>อุปกรณ์</h1>
+<h1 style="text-align: center;" >อุปกรณ์</h1>
 <h2>เครื่องมือและอุปกรณ์ที่ใช้ในการดำเนินงาน(software)</h2>
 <h3>Blynk</h3>
 <img src="https://store.kidbright.info/upload/cover-image/1595158904-oAsZux.png" style="width="50px" height="50px" ">
