@@ -108,21 +108,21 @@
   </ul>
 
 <h3>การออกแบบระบบ Smart hydroponic</h3>
-<img src="/img/4.png">
+<img src="/img/4.png" style="width:500px;">
  
  <h3>การออกแบบระบบเปิดปิดไฟด้วย Smart hydroponic
 </h3>
-<img src="/img/5.png">
+<img src="/img/5.png" style="width:500px;">
  
  <h3>การออกแบบระบบควบคุม pH</h3>
-<img src="/img/6.png">
+<img src="/img/6.png" style="width:500px;">
  
  <h3>การออกแบบระบบแสดงผลอุณหภูมิและความชื้น
 </h3>
-<img src="/img/9.png">
+<img src="/img/9.png" style="width:500px;">
  
  <h3>การออกแบบระบบแสดงผลค่าความนำไฟฟ้าของสารละลาย (EC)</h3>
-<img src="/img/7.png">
+<img src="/img/7.png" style="width:500px;">
 
 <h3>การออกแบบระบบแสดงผลอุณภูมิของน้ำ</h3>
-<img src="/img/8.png">
+<img src="/img/8.png" style="width:500px;">
