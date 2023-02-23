@@ -107,3 +107,5 @@
   <li>Power Indicator</li>
   </ul>
 
+<h3>การออกแบบระบบ Smart hydroponic</h3>
+<img src="/img/4.jpg">
