@@ -11,7 +11,10 @@
 <img src="https://store.kidbright.info/upload/cover-image/1595158904-oAsZux.png" style="width="50px" height="50px" ">
 <p>ใช้ทำระบบควบคุมIOT</p>
 <h4>ตัวอย่าง</h4>
-<img src="/img/2.jpg" style="width:250px; height="300px"">
+<p>
+<img src="/img/13.jpg" style="width:250px; height="300px"">
+<img src="/img/12.jpg" style="width:250px; height="300px"">
+</p>
 
 
 <h3>Thunkable </h3>
