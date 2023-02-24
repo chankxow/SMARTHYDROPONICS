@@ -21,8 +21,13 @@
 <img src="https://www.nocodeitalia.it/wp-content/uploads/2020/12/thunkable-1-1024x191.png" style="width="50px" height="50px"">
 <p>ใช้ในการทำแอปพลิเคชั่นเฉพาะ</p>
 <h4>ตัวอย่าง</h4>
+<p>
 <img src="/img/2.jpg" style="width:250px; height="300px"">
+<img src="/img/14.jpg" style="width:250px; height="300px"">
+<img src="/img/15.jpg" style="width:250px; height="300px"">
 
+
+</p>
 <h3>Arduino IDE</h3>
 <img src="https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width="50px" height="50px"">
 <p>ใช้ในการพัฒนาโค้ดให้สามารถทำการควบคุมบอร์ดไมโครคอนโทรลดลอร์ได้</p>
