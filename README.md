@@ -4,10 +4,9 @@
 <h1><a href="โครงงาน-Smart-hydroponic.pdf">เอกสารและเนื้อหาทั้งหมด &#128466;</a></h1>
  
  <img src="/img/1.jpg" style="width:50%; height:50%;">
- <img src="/img/11.jpg" style="width:50%; height:50%;>
+ <img src="/img/11.jpg" style="width:50%; height:50%;">
   
-  
-<h1>อุปกรณ์</h1>
+ <h1>อุปกรณ์</h1>
 <h2>เครื่องมือและอุปกรณ์ที่ใช้ในการดำเนินงาน(software)</h2>
 <h3>Blynk</h3>
  <p>ใช้ทำระบบควบคุมIOT</p>
@@ -18,13 +17,11 @@
 <img src="/img/12.jpg" style="width:250px; height="300px"">
 </p>
 
-
 <h3>Thunkable </h3>
 <img src="https://www.nocodeitalia.it/wp-content/uploads/2020/12/thunkable-1-1024x191.png" style="width="50px" height="50px"">
 <p>ใช้ในการทำแอปพลิเคชั่นเฉพาะ</p>
 <h4>ตัวอย่าง</h4>
 <img src="/img/2.jpg" style="width:250px; height="300px"">
-
 
 <h3>Arduino IDE</h3>
 <img src="https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width="50px" height="50px"">
