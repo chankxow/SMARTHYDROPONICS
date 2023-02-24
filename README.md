@@ -10,8 +10,8 @@
 <h1>อุปกรณ์</h1>
 <h2>เครื่องมือและอุปกรณ์ที่ใช้ในการดำเนินงาน(software)</h2>
 <h3>Blynk</h3>
+ <p>ใช้ทำระบบควบคุมIOT</p>
 <img src="https://store.kidbright.info/upload/cover-image/1595158904-oAsZux.png" style="width="50px" height="50px" ">
-<p>ใช้ทำระบบควบคุมIOT</p>
 <h4>ตัวอย่าง</h4>
 <p>
 <img src="/img/13.jpg" style="width:250px; height="300px"">
