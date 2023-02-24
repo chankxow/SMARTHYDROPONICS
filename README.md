@@ -4,7 +4,7 @@
 <h1><a href="โครงงาน-Smart-hydroponic.pdf">เอกสารและเนื้อหาทั้งหมด &#128466;</a></h1>
  
  <img src="/img/1.jpg" style="width:50%; height:50%;">
- <img src="/img/11.jpg" style="width:50%;>
+ <img src="/img/11.jpg" style="width:50%; height:50%;>
   
   
 <h1>อุปกรณ์</h1>
