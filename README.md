@@ -23,8 +23,8 @@
 <h4>ตัวอย่าง</h4>
 <p>
 <img src="/img/2.jpg" style="width:250px; height="300px"">
-<img src="/img/14.jpg" style="width:250px; height="300px"">
-<img src="/img/15.jpg" style="width:250px; height="300px"">
+<img src="/img/14.png" >
+<img src="/img/15.png">
 
 
 </p>
