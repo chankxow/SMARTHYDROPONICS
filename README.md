@@ -8,6 +8,7 @@ This project utilizes knowledge and experience gained from workshops and self-st
 ![Image 1](img/1.jpg)
 ![Image 2](img/11.jpg)
 
+
 ## Equipment
 
 ### Software Tools Used in the Project
@@ -34,7 +35,7 @@ Used for developing code to control the microcontroller board.
 ### Hardware Components
 
 #### ESP32
-![ESP32 Image](https://th.bing.com/th/id/R.b02136248e37bd6f90bc862c685d1f3c?rik=N%2fwa6K%2bWtqqcKw&pid=ImgRaw&r=0)
+![ESP32 Image](https://th.bing.com/th/id/R.b02136248e37bd6f90bc862c685d1f3c?rik=N%2fwa6K%2bWtqqcKw&pid=ImgRaw&r=0" style="width: 150px; height: auto;">
 - The ESP32 is a microcontroller IC that supports WiFi and Bluetooth 4.2 BLE, manufactured by Espressif in China. Its price is under 500 THB (for a development board). The specifications include:
   - Dual-core Tensilica LX6 architecture CPU with a clock speed of 240 MHz
   - 512 KB of internal RAM
@@ -54,21 +55,21 @@ Used for developing code to control the microcontroller board.
 - The ESP32 offers high performance, with data transmission speeds of up to 150 Mbps in 11n HT40 mode.
 
 #### DHT22 Temperature and Humidity Sensor
-![DHT22 Image](https://www.mechatronicstore.cl/wp-content/uploads/2017/05/humidity-temperature-sensor-dht22.jpg)
+![DHT22 Image](https://www.mechatronicstore.cl/wp-content/uploads/2017/05/humidity-temperature-sensor-dht22.jpg" style="width: 150px; height: auto;">
 - The DHT22 module is a high-accuracy digital temperature and humidity sensor designed for better performance than the DHT11.
   - Humidity accuracy: ±2%RH (Max ±5%RH); Temperature accuracy: ±0.2°C
   - Humidity sensitivity: 0.1%RH; Temperature sensitivity: 0.1°C
   - Measurement interval: Average 2 seconds
 
 #### E-201-C pH Sensor
-![pH Sensor Image](https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png)
+![pH Sensor Image](https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width: 150px; height: auto;">
 - Used to measure the pH level of water. It comes with a probe and can measure a range of 0-14 pH with an output in analog form (0-1024 mA).
   - Operating voltage: 5.00V
   - Measuring temperature: 5 – 60 °C
   - Accuracy: ± 0.1pH at 25 °C
 
 #### EC Sensor
-![EC Sensor Image](https://cdn2.botland.com.pl/66532-large_default/gravity-analogowy-czujnik-zasolenia-wody-i-gleby-dfrobot-dfr0300-h.jpg)
+![EC Sensor Image](https://cdn2.botland.com.pl/66532-large_default/gravity-analogowy-czujnik-zasolenia-wody-i-gleby-dfrobot-dfr0300-h.jpg" style="width: 150px; height: auto;">
 - Used to measure the electrical conductivity of water solutions, applicable in smart farming, aquaculture, and hydroponics.
   - Working voltage: +5.00V
   - Measuring range: 1ms/cm–20ms/cm
@@ -84,7 +85,7 @@ Used for developing code to control the microcontroller board.
 ![pH Control](img/6.png)
 
 ### Temperature and Humidity Display System Design
-![Temperature and Humidity Display](img/9.png)
+![Temperature and Humidity Display](img/9.png style="width: 150px; height: auto;)
 
 ### Electrical Conductivity (EC) Display System Design
 ![EC Display](img/7.png)
@@ -92,4 +93,3 @@ Used for developing code to control the microcontroller board.
 ### Water Temperature Display System Design
 ![Water Temperature Display](img/8.png)
 
-<img src="image_url" style="width:200px; height:auto;">
