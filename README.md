@@ -91,3 +91,5 @@ Used for developing code to control the microcontroller board.
 
 ### Water Temperature Display System Design
 ![Water Temperature Display](img/8.png)
+
+<img src="image_url" style="width:200px; height:auto;">
